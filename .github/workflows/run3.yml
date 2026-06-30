@@ -1,8 +1,8 @@
-name: 刷步数-分组3
+name: 刷步数-安妮32
 
 on:
   schedule:
-    - cron: '45 1,7,10,12,14,17,18 * * *'
+    - cron: '0 21 * * *'
   workflow_dispatch:
 
 jobs:
