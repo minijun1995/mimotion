@@ -1,8 +1,8 @@
-name: 刷步数
+name: 刷步数 军
 
 on:
   schedule:
-    - cron: '2 1,7,10,12,14,17,18 * * *'
+        - cron: '0 18 * * *'
   workflow_dispatch:
 
 jobs:
